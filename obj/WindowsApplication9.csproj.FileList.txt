@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication9.Form1.resources
+obj\Debug\WindowsApplication9.csproj.GenerateResource.Cache
+bin\Debug\HolyOneDNSBackupTool.exe
+bin\Debug\HolyOneDNSBackupTool.pdb
+obj\Debug\HolyOneDNSBackupTool.Properties.Resources.resources
+obj\Debug\HolyOneDNSBackupTool.exe
+obj\Debug\HolyOneDNSBackupTool.pdb
+bin\Release\HolyOneDNSBackupTool.exe
+bin\Release\HolyOneDNSBackupTool.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\WindowsApplication9.Form1.resources
+obj\Release\HolyOneDNSBackupTool.Properties.Resources.resources
+obj\Release\WindowsApplication9.csproj.GenerateResource.Cache
+obj\Release\HolyOneDNSBackupTool.exe
+obj\Release\HolyOneDNSBackupTool.pdb

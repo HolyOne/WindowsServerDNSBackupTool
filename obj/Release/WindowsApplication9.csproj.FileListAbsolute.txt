@@ -1,0 +1,5 @@
+Q:\My Programs\C#\DNS Backup Tool\obj\Release\HolyOneDNSBackupTool.exe
+Q:\My Programs\C#\DNS Backup Tool\obj\Release\HolyOneDNSBackupTool.pdb
+Q:\My Programs\C#\DNS Backup Tool\obj\Release\WindowsApplication9.csprojResolveAssemblyReference.cache
+Q:\My Programs\C#\DNS Backup Tool\obj\Release\WindowsApplication9.Form1.resources
+Q:\My Programs\C#\DNS Backup Tool\obj\Release\WindowsApplication9.csproj.GenerateResource.Cache
