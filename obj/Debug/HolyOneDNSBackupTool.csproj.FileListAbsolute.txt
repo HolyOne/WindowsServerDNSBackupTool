@@ -1,7 +1,0 @@
-Q:\My Programs\C#\DNS Backup Tool\obj\Debug\HolyOneDNSBackupTool.exe
-Q:\My Programs\C#\DNS Backup Tool\obj\Debug\HolyOneDNSBackupTool.pdb
-Q:\My Programs\C#\DNS Backup Tool\bin\Debug\HolyOneDNSBackupTool.exe
-Q:\My Programs\C#\DNS Backup Tool\bin\Debug\HolyOneDNSBackupTool.pdb
-Q:\My Programs\C#\DNS Backup Tool\obj\Debug\WindowsApplication9.Form1.resources
-Q:\My Programs\C#\DNS Backup Tool\obj\Debug\HolyOneDNSBackupTool.Properties.Resources.resources
-Q:\My Programs\C#\DNS Backup Tool\obj\Debug\HolyOneDNSBackupTool.csproj.GenerateResource.Cache
